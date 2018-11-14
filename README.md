@@ -20,6 +20,6 @@ An Asp.Net Core Application serving a React SPA that allows the user interact wi
 
 ![screen1](./screenshots/screenshot1.jpg)
 
-** Asp.Net Core SPA**
+**Asp.Net Core SPA**
 
 ![screen2](./screenshots/screenshot2.jpg)
